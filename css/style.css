@@ -32,5 +32,11 @@ header {
 }
 
 .columns {
-    width: 750px; 
+    width: 750px;
+    display: flex;
+}
+
+.column{
+    
+    margin: 5px;
 }
